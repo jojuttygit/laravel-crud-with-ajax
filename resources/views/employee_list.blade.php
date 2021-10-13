@@ -105,4 +105,7 @@
             @endisset
         </tbody>
     </table>
+    @if(count($employees) === 0)
+        <h5>No Result Found</h5>
+    @endif
 </div>
