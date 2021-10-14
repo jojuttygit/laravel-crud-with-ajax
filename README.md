@@ -25,3 +25,6 @@ Please run below commands once the repo is cloned,
 - php artisan migrate
 - php artisan db:seed
 - php artisan storage:link
+
+![Laravel-CRUD1](https://user-images.githubusercontent.com/28587897/137328259-14acac76-c05b-4b3b-9cb4-e93d5a3d69e0.png)
+
